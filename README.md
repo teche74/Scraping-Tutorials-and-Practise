@@ -37,6 +37,17 @@ To get started with web scraping using this repository, follow these steps:
   python examples/simple_scraper.py
   ```
 
+  ## Technologies Used
+
+This repository utilizes the following technologies and libraries:
+
+- **Python**: The main programming language used for the scripts.
+- **BeautifulSoup**: A library for parsing HTML and XML documents.
+- **Requests**: A library for making HTTP requests.
+- **Selenium**: A tool for automating web browsers.
+- **Scrapy**: A web crawling and web scraping framework.
+
+
 ## Tutorials and Examples
 
 The `tutorials` and `examples` directories contain a variety of resources to help you learn web scraping:
