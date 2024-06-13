@@ -1,4 +1,4 @@
-# Web Scraping: Concepts and Practices
+-# Web Scraping: Concepts and Practices
 
 Welcome to the Web Scraping repository! This repository is dedicated to understanding the concepts and practices of web scraping. Here, you will find a collection of scripts, tutorials, and resources to help you learn and master web scraping.
 
